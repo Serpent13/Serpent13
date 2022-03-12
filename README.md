@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Serpent13, I am from 🇵🇱
+- 👋 Hi, I’m @Serpent13, I am from Poland
 - 👀 I’m interested in IT and programming
 - 🌱 I’m currently learning HTML+CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
